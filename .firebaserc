@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "fir-app-a1cfd"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
